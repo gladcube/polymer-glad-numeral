@@ -1,0 +1,2 @@
+Polymer.GladNumeral = require \numeral
+
